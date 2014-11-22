@@ -9,10 +9,6 @@
     "bugs": {
         "url": "http://github.com/mathjax/MathJax/issues"
     },
-    "license": {
-        "type": "Apache",
-        "url": "http://github.com/mathjax/MathJax/blob/master/LICENSE"
-    },
     "repository": {
         "type": "git",
         "url": "git://github.com/mathjax/MathJax.git"
