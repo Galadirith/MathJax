@@ -18,6 +18,5 @@
         "url": "git://github.com/mathjax/MathJax.git"
     },
     "dependencies": {
-    },
-    "main": "./unpacked/MathJax.js"
+    }
 }
