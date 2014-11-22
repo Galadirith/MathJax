@@ -1,0 +1,19 @@
+{
+  "name": "MathJax",
+  "version": "0.1.0",
+  "description": "Minimal node package wrapper for MathJax",
+  "repository": "https://github.com/Galadirith/MathJax/tree/mathjax-complete-node",
+  "files": [
+    "config",
+    "extensions",
+    "fonts",
+    "jax",
+    "localization",
+    "unpacked",
+    "LICENSE",
+    "MathJax.js",
+    "README.md"
+  ],
+  "dependencies": {
+  }
+}
