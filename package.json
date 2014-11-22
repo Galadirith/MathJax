@@ -6,9 +6,6 @@
     "maintainers": [
         "MathJax Consortium <info@mathjax.org> (http://www.mathjax.org)"
     ],
-    "bugs": {
-        "url": "http://github.com/mathjax/MathJax/issues"
-    },
     "repository": {
         "type": "git",
         "url": "git://github.com/mathjax/MathJax.git"
