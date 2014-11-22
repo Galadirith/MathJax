@@ -2,7 +2,6 @@
     "name": "MathJax",
     "version": "2.5.0-alpha-mjnode",
     "description": "Beautiful math in all browsers.",
-    "keywords": ["math","svg","MathML","TeX","AsciiMath"],
     "repository": {
         "type": "git",
         "url": "git://github.com/mathjax/MathJax.git"
