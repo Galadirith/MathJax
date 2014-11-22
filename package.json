@@ -1,11 +1,11 @@
 {
-    "name": "MathJax",
-    "version": "2.5.0-alpha-mjnode",
-    "description": "Beautiful math in all browsers.",
-    "repository": {
+  "name": "MathJax",
+  "version": "0.1.0",
+  "description": "Minimal node package wrapper for MathJax",
+  "repository": {
         "type": "git",
-        "url": "git://github.com/mathjax/MathJax.git"
-    },
-    "dependencies": {
-    }
+        "url": "git://github.com/Galadirith/MathJax-node.git#mathjax-complete-node"
+  },
+  "dependencies": {
+  }
 }
